@@ -1,0 +1,2 @@
+Número total de colisões: 5644083
+Número total de colisões com o satélite: 3520
